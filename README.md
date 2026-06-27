@@ -1,5 +1,5 @@
 # <div align="center"> MADE WITH ❤️ BY DXN1
-
+# <div align="center"> ``` version 4.00 06-27-2026 ```
 
 <h2>🕸️ The Most Dangerous Onion Intelligence Engine Ever Written 🕸️</h2>
 <h4>Built by the shadows. Runs in the dark. Knows everything twice.</h4>
